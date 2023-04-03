@@ -1,0 +1,90 @@
+[38;5;8m2023-04-03 00:01:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:01:21[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:01:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:01:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:02:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:02:38[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:02:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-03 00:06:24[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> unexpected disconnect: read tcp 192.168.3.2:54050->157.148.54.73:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-04-03 00:06:25[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 791752241 
+[38;5;8m2023-04-03 00:06:25[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 537725507
+[38;5;8m2023-04-03 00:06:25[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1213486160
+[38;5;8m2023-04-03 00:06:25[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 540291125 
+[38;5;8m2023-04-03 00:06:46[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.178:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[38;5;8m2023-04-03 00:06:46[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.178:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-04-03 00:06:46[0m [W] [38;5;32;1mgocqhttp[0m Bot已离线: quick reconnect failed 
+[38;5;8m2023-04-03 00:06:46[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.178:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-04-03 00:06:46[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 125.39.196.178:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[38;5;8m2023-04-03 00:06:49[0m [W] [38;5;32;1mgocqhttp[0m 将在 3 秒后尝试重连. 重连次数：2/0
+[38;5;8m2023-04-03 00:06:52[0m [W] [38;5;32;1mgocqhttp[0m 尝试重连...
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 537725507 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 540291125 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1213486160
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 791752241 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1853107532 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1869509733 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1701734260 
+[38;5;8m2023-04-03 00:06:52[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1748639792
+[38;5;8m2023-04-03 00:06:53[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 1213486160
+[38;5;8m2023-04-03 00:06:53[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> parse incoming packet error: invalid packet length 791752241
+[38;5;8m2023-04-03 00:06:54[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> register client failed: Packet timed out
+[38;5;8m2023-04-03 00:07:14[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 59.83.207.254:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-04-03 00:07:14[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 59.83.207.254:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[38;5;8m2023-04-03 00:07:14[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 59.83.207.254:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[38;5;8m2023-04-03 00:07:14[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 59.83.207.254:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[38;5;8m2023-04-03 00:07:22[0m [W] [38;5;32;1mgocqhttp[0m 快速重连失败: Packet timed out
+[38;5;8m2023-04-03 00:07:22[0m [E] [38;5;32;1mgocqhttp[0m 快速重连失败, 扫码登录无法恢复会话.
+[38;5;8m2023-04-03 12:22:07[0m [W] [38;5;197;1mstats[0m TypeError: this._request is not a function
+                            at _Internal._get (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\types.ts:547:33)
+                            at _Internal._Internal.<computed> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\types.ts:577:31)
+                            at OneBotBot.getGuildList (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\bot\index.ts:69:38)
+                            at getGuildInfo (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:246:32)
+                            at <anonymous> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:265:13)
+                            at Proxy.map (<anonymous>)
+                            at extendGuilds (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:263:37)
+                            at <anonymous> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:295:48)
+                            at Array.map (<anonymous>)
+                            at _StatisticsProvider.download (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:295:38)
+[38;5;8m2023-04-03 12:22:07[0m [W] [38;5;197;1mstats[0m TypeError: this._request is not a function
+                            at _Internal._get (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\types.ts:547:33)
+                            at _Internal._Internal.<computed> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\types.ts:577:31)
+                            at QQGuildBot.getGuildList (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@satorijs\adapter-onebot\src\bot\qqguild.ts:63:38)
+                            at getGuildInfo (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:246:32)
+                            at <anonymous> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:265:13)
+                            at Proxy.map (<anonymous>)
+                            at extendGuilds (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:263:37)
+                            at <anonymous> (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:295:48)
+                            at Array.map (<anonymous>)
+                            at _StatisticsProvider.download (E:\workspace\chatGPT\robot-qq-chatGPT\node_modules\@koishijs\plugin-analytics\src\stats.ts:295:38)
+[38;5;8m2023-04-03 12:22:42[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.12.3[0m
+[38;5;8m2023-04-03 12:22:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-04-03 12:22:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-04-03 12:22:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-04-03 12:22:44[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-04-03 12:22:45[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-04-03 12:22:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-04-03 12:22:48[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-04-03 12:22:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:storage[0m
+[38;5;8m2023-04-03 12:22:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-04-03 12:22:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-04-03 12:22:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-04-03 12:22:49[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-04-03 12:22:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-04-03 12:22:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:develop[0m
+[38;5;8m2023-04-03 12:22:50[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhmr[0m
+[38;5;8m2023-04-03 12:22:51[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgpt:095yw9[0m
+[38;5;8m2023-04-03 12:22:53[0m [I] [38;5;204;1massets[0m missing config "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-04-03 12:22:53[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5140[0m
+[38;5;8m2023-04-03 12:23:07[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-04-03 12:23:07[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-04-03 12:23:07[0m [W] [38;5;178;1mmarket[0m timeout of 5000ms exceeded
+[38;5;8m2023-04-03 12:23:08[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail. 
+[38;5;8m2023-04-03 12:23:08[0m [W] [38;5;178;1mmarket[0m aborted
